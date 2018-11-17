@@ -11,4 +11,4 @@ How to
 * python build_word_index.py to get json word index
 * python build_data_index.py to get train and test npz data
 * Use aclimdb.py to support local data made by two above steps
-* Refer more from my Chinese blog：http://www.52nlp.cn/?p=10537
+* Refer more from my Chinese blog：http://www.52nlp.cn/?p=10887
