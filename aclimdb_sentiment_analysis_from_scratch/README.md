@@ -2,8 +2,8 @@ IMDB Movie Review Data Sentiment Analysis from Scratch
 =========================================
 Data
 ---
-Get the original data from [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
-Download link: [Large Movie Review Dataset v1.0](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
+* Get the original data from [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
+* Download link: [Large Movie Review Dataset v1.0](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)
 
 How to
 ---
